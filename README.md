@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Real-Time sign language to text convertor**
 
-- 🌱 I’m currently learning **Machine learning , Graph Algorithms**
+- 🌱 I’m currently learning **Solidity and Web3 Basics**
 
 - 💬 Ask me about **C++ , Python, Data structures and algorithms**
 
