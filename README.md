@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/akash_jain97" target="blank"><img src="https://img.shields.io/twitter/follow/akash_jain97?logo=twitter&style=for-the-badge" alt="akash_jain97" /></a> </p>
 
-- 🔭 I’m currently working on **Lecture Summarizer**
+- 🔭 I’m currently working on **Lecture Summarizer and analyzer**
 
 - 🌱 I’m currently learning **Solidity and Web3 Basics**
 
