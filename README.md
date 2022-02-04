@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akashjain1536@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1le9dbboas7C_6xrBL84j86x-SZ7xaWF9/view?usp=sharing](https://drive.google.com/file/d/1le9dbboas7C_6xrBL84j86x-SZ7xaWF9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U65Cg475JANLVrg-Cq9pOBQ5vr-G8yj_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
