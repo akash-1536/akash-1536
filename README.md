@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash A</h1>
-<h3 align="center">I am presently pursuing my Btech in Computer Science Engineering at Vellore Institute of Technology. My major interests include competitive programming, problem-solving, and web development. Being an avid learner, I always try to keep myself updated with the latest technologies in use. I'm always ready to collaborate and share ideas.</h3>
+<h3 align="center">Data Structures and Algorithms - Machine Learning - Web3 - NLP - Competitive Programming - Web Development</h3>
 
 <p align="left"> <a href="https://twitter.com/akash_jain97" target="blank"><img src="https://img.shields.io/twitter/follow/akash_jain97?logo=twitter&style=for-the-badge" alt="akash_jain97" /></a> </p>
 
