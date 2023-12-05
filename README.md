@@ -34,7 +34,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-1536&show_icons=true&locale=en&layout=compact" alt="akash-1536" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-1536&show_icons=true&locale=en" alt="akash-1536" /></p>
 
