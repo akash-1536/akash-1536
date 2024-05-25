@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [CodeSource](https://github.com/VaibhaveS/CodeSource)
 
-- 🌱 I’m currently learning **React, NodeJS, OCI Cloud**
+- 🌱 I’m currently learning **GenAI, RAG, React**
 
-- 🤝 I’m looking for help with **Learning more about Cloud-Computing**
+- 🤝 I’m looking for help with *learning design patterns**
 
-- 💬 Ask me about **C++, DSA, System Design**
+- 💬 Ask me about **C++, DSA, LLMs**
 
 - 📫 How to reach me **akashjain1536@gmail.com**
 
