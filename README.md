@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-1536&label=Profile%20views&color=0e75b6&style=flat" alt="akash-1536" /> </p>
 
-- 🔭 I’m currently working on [CodeSource](https://github.com/VaibhaveS/CodeSource)
+- 🔭 I’m currently working on [Gym-Logger App](https://github.com/akash-1536/gym-log-app)
 
 - 🌱 I’m currently learning **GenAI, RAG, React**
 
