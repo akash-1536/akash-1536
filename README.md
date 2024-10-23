@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **GenAI, RAG, React**
 
-- 🤝 I’m looking for help with *learning about RAG systems**
+- 🤝 I’m looking for help with *learning about Cognitive Architecture for Generative Models**
 
 - 💬 Ask me about **C++, DSA, LLMs**
 
